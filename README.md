@@ -18,7 +18,7 @@ Quinto projeto desenvolvido para o Bootcamp de Desenvolvimento Web da [@Laborat√
   <img align="center" alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"><br>
   <br>
   
-  Acesse o projeto [aqui.](https://heaven-burger-ajuliamm.vercel.app/)
+  Acesse o projeto [aqui.](https://heaven-burger-analeticiabacha.vercel.app/)
   <br>
   <br>
   Desenvolvedoras: <br>
