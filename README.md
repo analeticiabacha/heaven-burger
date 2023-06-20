@@ -109,7 +109,7 @@ O perfil de Atendente, ao efetuar o login, o usuário irá se deparar com a tela
   <img width="500" src="https://github.com/ajuliamm/heaven-burger/assets/30864314/991debf2-319c-4828-ba06-e12220ddb29e"/>
 </div>
 
-Ao clicar em algum cardápio (por exemplo: hamburguers) o atendente visualiza as opções e consegue selecionar de acordo com o pedido do cliente. Ao lado, é possível aumentar ou diminuir as quantidades, e também excluir o item selecionado caso precise. O valor total do pedido é calculado automaticamente conforme interação.
+Ao clicar em algum cardápio (por exemplo: hamburguers) o atendente visualiza as opções e consegue selecionar de acordo com o pedido do cliente. Ao lado, é possível aumentar ou diminuir as quantidades, e também excluir o item selecionado caso precise. O valor total do pedido é calculado automaticamente conforme interação do usuário.
 
 <div align="center">
   <img width="500" src="https://github.com/ajuliamm/heaven-burger/assets/30864314/24ebc7a2-5eeb-4ea7-b5dd-2b2ab5377df3"/>
