@@ -176,5 +176,4 @@ A aplicação é responsiva para todos os tamanhos de tela. A adaptação do sis
 - Ana Leticia B. Prince: [Linkedin](https://www.linkedin.com/in/analeticiabacha/)
 - Angelina Melo: [Linkedin](https://www.linkedin.com/in/angelinamelo/)
 
-***
-Em construção :construction:
+
